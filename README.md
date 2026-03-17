@@ -20,7 +20,7 @@
 
 > *"Non-engineer turned AI architect. Running real business operations with autonomous agents since 2025."*
 
-**林 俊介 (Shunsuke Hayashi)** は、東京を拠点とする **合同会社みやび (Miyabi AI)** のCEOです。AIエージェントシステムの設計・構築から、オンライン教育プラットフォームの運営まで、AIを活用したビジネス自動化の最前線で活動しています。
+**林 駿甫 (Shunsuke Hayashi)** は、愛知県一宮市を拠点とする **合同会社みやび (Miyabi AI)** のCEOです。AIエージェントシステムの設計・構築から、オンライン教育プラットフォームの運営まで、AIを活用したビジネス自動化の最前線で活動しています。
 
 エンジニアリングの専門教育を受けていないにもかかわらず、**Goal-Seek Prompt Design** という独自の方法論を開発し、Claude × OpenAI Codex × Gemini × GLM-4.7 の4モデルオーケストレーションをプロダクションスケールで実現。**42のカスタムAIスキル**と**5台のマシン**を統合した自律型開発システムを構築・運用しています。
 
@@ -153,7 +153,7 @@ F(Achieve Goal) = ∫F(step) = A → Z
 
 [![Built by 合同会社みやび](https://img.shields.io/badge/Built%20by-合同会社みやび-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://www.miyabi-ai.jp)
 
-**合同会社みやび (Miyabi AI)** は、AIエージェント技術を活用したビジネス自動化ソリューションを提供する東京の企業です。
+**合同会社みやび (Miyabi AI)** は、AIエージェント技術を活用したビジネス自動化ソリューションを提供する愛知県一宮市の企業です。
 
 > *"We don't just use AI — we build systems where AI runs the business."*
 
