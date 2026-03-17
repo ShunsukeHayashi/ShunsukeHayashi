@@ -4,7 +4,7 @@
 
 <img src="./avatar.jpg" width="150" style="border-radius:50%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E6%9E%97+%E9%A7%BF%E7%94%AB+%2F+Shunsuke+Hayashi;%E5%90%88%E5%90%8C%E4%BC%9A%E7%A4%BE%E3%81%BF%E3%82%84%E3%81%B3+CEO;39%E4%BD%93%E3%81%AEAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%A7%E4%BC%9A%E7%A4%BE%E3%82%92%E5%9B%9E%E3%81%99)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=150&lines=%E6%9E%97+%E9%A7%BF%E7%94%AB+%2F+Shunsuke+Hayashi;%E5%90%88%E5%90%8C%E4%BC%9A%E7%A4%BE%E3%81%BF%E3%82%84%E3%81%B3+CEO;39%E4%BD%93%E3%81%AEAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%A7%E4%BC%9A%E7%A4%BE%E3%82%92%E5%9B%9E%E3%81%99)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=42&fontColor=fff" width="100%"/>
 

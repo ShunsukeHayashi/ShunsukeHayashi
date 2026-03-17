@@ -4,7 +4,7 @@
 
 <img src="./avatar.jpg" width="150" style="border-radius:50%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi%2C+I'm+Shunsuke+Hayashi+%F0%9F%91%8B;CEO+%40+Miyabi+AI+%7C+AI+Agent+Architect;39+Autonomous+Agents+Running+My+Business)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi%2C+I'm+Shunsuke+Hayashi+%F0%9F%91%8B;CEO+%40+Miyabi+AI+%7C+AI+Agent+Architect;39+Autonomous+Agents+Running+My+Business)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=42&fontColor=fff" width="100%"/>
 
