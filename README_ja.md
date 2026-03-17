@@ -201,16 +201,6 @@ heroui ⭐1 · AI_sachiko ⭐1 · AI-human-game ⭐1 · translation_app_lao ⭐1
 
 ---
 
-## トロフィー
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShunsukeHayashi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## コントリビューション
 
 <div align="center">
