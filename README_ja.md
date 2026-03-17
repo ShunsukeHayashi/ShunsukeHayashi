@@ -51,7 +51,7 @@
 |---|---|
 | 🤖 **39体のAIエージェント** | 5台のマシンで24時間稼働 |
 | ⏰ **59本のcronジョブ** | 自動化されたビジネスオペレーション |
-| 📦 **66本のオリジナルリポ** | オープンソースのツール＆フレームワーク |
+| 📦 **52本のオリジナルリポ** | オープンソースのツール＆フレームワーク |
 | 🐦 **38,000+ Xフォロワー** | [@The_AGI_WAY](https://x.com/The_AGI_WAY) |
 | 🎓 **981件の取引実績** | [Teachable 9コース](https://shuhayas-s-school.teachable.com) |
 | 📝 **5,447 noteフォロワー** | AI教育コンテンツ |
@@ -145,7 +145,7 @@
 | [🍜 miso](https://github.com/ShunsukeHayashi/miso) | MISO — Telegram上の自律エージェントUIフレームワーク | ![](https://img.shields.io/github/stars/ShunsukeHayashi/miso?style=social) |
 
 <details>
-<summary><b>📂 全66リポジトリをカテゴリ別に見る</b></summary>
+<summary><b>📂 全52リポジトリをカテゴリ別に見る</b></summary>
 
 ### AIエージェントフレームワーク (11)
 miyabi-claude-plugins ⭐30 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐16 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1 · swml
@@ -168,17 +168,14 @@ openclaw-prod ⭐2 · MiyabiDash · voiceclaw
 ### 音声 (3)
 byteplus-voice-ai ⭐1 · voicebox-tts · VoiceFlow
 
-### ビジネス (6)
-gas-executor ⭐7 · mastra-youtube-affiliate ⭐3 · Ad_generator ⭐2 · law-api-agent ⭐2 · shadow-marketer-lp ⭐1 · Painting_Estimate_App ⭐1
+### ビジネス (4)
+gas-executor ⭐7 · mastra-youtube-affiliate ⭐3 · Ad_generator ⭐2 · law-api-agent ⭐2
 
-### 教育 / PPAL (6)
-ppal-skill-library ⭐4 · how-to-use-miyabi ⭐4 · ppal-mcp-collection ⭐2 · teachable-webhook-aws ⭐1 · miyabi-ppal-plugin · sasaerun-faq
+### 教育 / PPAL (4)
+ppal-skill-library ⭐4 · how-to-use-miyabi ⭐4 · ppal-mcp-collection ⭐2 · teachable-webhook-aws ⭐1
 
-### コンテンツ (5)
-Notion-ChatGPT-streaming-connector ⭐1 · blog-summarizer ⭐1 · note_gen ⭐1 · zenn ⭐1 · NoteWriter
-
-### その他 (8)
-heroui ⭐1 · AI_sachiko ⭐1 · AI-human-game ⭐1 · translation_app_lao ⭐1 · chrome_nanobanana · sanbo-ai-lp · cc_test · Plugin-marketplace
+### コンテンツ (3)
+Notion-ChatGPT-streaming-connector ⭐1 · note_gen ⭐1 · zenn ⭐1
 
 </details>
 

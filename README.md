@@ -51,7 +51,7 @@
 |---|---|
 | 🤖 **39 AI Agents** | Running 24/7 across 5 machines |
 | ⏰ **59 Cron Jobs** | Automated business operations |
-| 📦 **66 Original Repos** | Open-source tools & frameworks |
+| 📦 **52 Original Repos** | Open-source tools & frameworks |
 | 🐦 **38K+ X Followers** | [@The_AGI_WAY](https://x.com/The_AGI_WAY) |
 | 🎓 **981 Transactions** | [9 courses on Teachable](https://shuhayas-s-school.teachable.com) |
 | 📝 **5,447 note Followers** | AI education content |
@@ -145,7 +145,7 @@
 | [🍜 miso](https://github.com/ShunsukeHayashi/miso) | MISO — Telegram-native Agentic UI framework | ![](https://img.shields.io/github/stars/ShunsukeHayashi/miso?style=social) |
 
 <details>
-<summary><b>📂 View all 66 repositories by category</b></summary>
+<summary><b>📂 View all 52 repositories by category</b></summary>
 
 ### AI Agent Frameworks (11)
 miyabi-claude-plugins ⭐30 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐16 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1 · swml
@@ -168,17 +168,14 @@ openclaw-prod ⭐2 · MiyabiDash · voiceclaw
 ### Voice & Audio (3)
 byteplus-voice-ai ⭐1 · voicebox-tts · VoiceFlow
 
-### Business & Marketing (6)
-gas-executor ⭐7 · mastra-youtube-affiliate ⭐3 · Ad_generator ⭐2 · law-api-agent ⭐2 · shadow-marketer-lp ⭐1 · Painting_Estimate_App ⭐1
+### Business & Marketing (4)
+gas-executor ⭐7 · mastra-youtube-affiliate ⭐3 · Ad_generator ⭐2 · law-api-agent ⭐2
 
-### Education / PPAL (6)
-ppal-skill-library ⭐4 · how-to-use-miyabi ⭐4 · ppal-mcp-collection ⭐2 · teachable-webhook-aws ⭐1 · miyabi-ppal-plugin · sasaerun-faq
+### Education / PPAL (4)
+ppal-skill-library ⭐4 · how-to-use-miyabi ⭐4 · ppal-mcp-collection ⭐2 · teachable-webhook-aws ⭐1
 
-### Content & Publishing (5)
-Notion-ChatGPT-streaming-connector ⭐1 · blog-summarizer ⭐1 · note_gen ⭐1 · zenn ⭐1 · NoteWriter
-
-### Other (8)
-heroui ⭐1 · AI_sachiko ⭐1 · AI-human-game ⭐1 · translation_app_lao ⭐1 · chrome_nanobanana · sanbo-ai-lp · cc_test · Plugin-marketplace
+### Content & Publishing (3)
+Notion-ChatGPT-streaming-connector ⭐1 · note_gen ⭐1 · zenn ⭐1
 
 </details>
 
