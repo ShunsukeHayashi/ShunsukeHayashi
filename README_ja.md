@@ -1,15 +1,18 @@
 <div align="center">
 
+🌐 **[English](./README.md)** | 🇯🇵 **日本語**
+
+<img src="./avatar.jpg" width="150" style="border-radius:50%"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%E6%9E%97+%E9%A7%BF%E7%94%AB+%2F+Shunsuke+Hayashi;%E5%90%88%E5%90%8C%E4%BC%9A%E7%A4%BE%E3%81%BF%E3%82%84%E3%81%B3+CEO;39%E4%BD%93%E3%81%AEAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%A7%E4%BC%9A%E7%A4%BE%E3%82%92%E5%9B%9E%E3%81%99)](https://github.com/DenverCoder1/readme-typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=%E6%9E%97%20%E9%A7%BF%E7%94%AB&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=%E5%90%88%E5%90%8C%E4%BC%9A%E7%A4%BE%E3%81%BF%E3%82%84%E3%81%B3%20CEO%20%7C%20AI%20Agent%20Architect&descAlignY=55&descSize=18" width="100%"/>
-
-🌐 **[English](./README.md)** | 🇯🇵 **日本語**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=42&fontColor=fff" width="100%"/>
 
 [![Website](https://img.shields.io/badge/miyabi--ai.jp-6366F1?style=for-the-badge&logoColor=white)](https://www.miyabi-ai.jp)
 [![X (Twitter)](https://img.shields.io/badge/@The__AGI__WAY-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/The_AGI_WAY)
 [![note](https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note.mu&logoColor=white)](https://note.ambitiousai.co.jp)
 [![Teachable](https://img.shields.io/badge/Teachable-FF5733?style=for-the-badge&logo=teachable&logoColor=white)](https://shuhayas-s-school.teachable.com)
+[![Email](https://img.shields.io/badge/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shunsuke.hayashi@miyabi-ai.jp)
 
 <img src="https://komarev.com/ghpvc/?username=ShunsukeHayashi&label=Profile+Views&color=6366F1&style=flat-square" alt="Profile Views"/>
 
@@ -17,27 +20,47 @@
 
 ---
 
-## 自己紹介
+## ストーリー
 
-> *「非エンジニアからAIアーキテクトへ。39体の自律AIエージェントが24時間ビジネスを回している。」*
+**2024年** — プロンプト1本から始めた。エンジニアの学位なし。ノートPCと好奇心だけ。
 
-**林 駿甫（はやし しゅんすけ）** — 愛知県一宮市在住。**合同会社みやび** CEO（2026年4月設立）。
+**2025年** — 5台のマシン上に39体の自律AIエージェントを構築。コード生成、コミュニティ運営、コンテンツ制作、経営管理を24時間365日こなす。
 
-エンジニアリングの正規教育を受けずに、**ゴールシークプロンプトデザイン**という独自の方法論を開発。Claude / OpenAI Codex / Gemini の**マルチモデルオーケストレーション**をプロダクションスケールで実現し、**39体の自律AIエージェント**を**5台の分散マシンクラスター**上で24時間運用しています。
+**2026年4月** — **合同会社みやび**を愛知県一宮市で設立。人間1人。AIエージェント39体。本物の会社を回す。
 
-| 指標 | 数値 |
-|------|------|
-| 🐦 X (Twitter) フォロワー | **38,000+** |
-| 📝 note フォロワー | **5,447** |
-| 🎓 Teachable 受講者 | **981件 / 9コース** |
-| 💬 L-Step アクティブユーザー | **4,771名** |
-| 🤖 自律AIエージェント | **39体** / 5台クラスター |
-| ⏰ 自動cronジョブ | **59本**が24時間稼働 |
-| 📦 公開リポジトリ | **66本**（オリジナル） |
+> *「自分はコードを書かない。AIがコードを書くシステムを設計する。」*
 
 ---
 
-## 自律エージェント・アーキテクチャ
+## メディア掲載・実績
+
+| 場所 | 内容 |
+|------|------|
+| 🏆 **NVIDIA GTC 2026** | NemoClaw Reference Architecture — Jensen HuangがOpenClawを「パーソナルAIのOS」と認定 |
+| 🔍 **Perplexity.ai** | [context_engineering_MCP](https://github.com/ShunsukeHayashi/context_engineering_MCP) がトップMCP実装として推薦 |
+| 🏢 **ByteDance / TikTok** | miyabi-claude-pluginsが14日間で2,093回クローン — ByteDanceエンジニアリングからの流入 |
+| 📊 **MCPエコシステム** | rpgmaker-mz-mcpが6つのMCPディレクトリに自動登録 |
+
+---
+
+## 数字で見る実績
+
+<div align="center">
+
+| | |
+|---|---|
+| 🤖 **39体のAIエージェント** | 5台のマシンで24時間稼働 |
+| ⏰ **59本のcronジョブ** | 自動化されたビジネスオペレーション |
+| 📦 **66本のオリジナルリポ** | オープンソースのツール＆フレームワーク |
+| 🐦 **38,000+ Xフォロワー** | [@The_AGI_WAY](https://x.com/The_AGI_WAY) |
+| 🎓 **981件の取引実績** | [Teachable 9コース](https://shuhayas-s-school.teachable.com) |
+| 📝 **5,447 noteフォロワー** | AI教育コンテンツ |
+
+</div>
+
+---
+
+## エージェント・アーキテクチャ
 
 ```
                     ┌──────────────────────────────────┐
@@ -61,27 +84,23 @@
      └────────────────┘
 ```
 
-**エージェントが24時間やっていること:**
-- 🤖 **Discord**: 14体のAIキャラクターがコミュニティを自律運営
-- 📝 **コンテンツ**: X・note・Teachable向けの下書き自動生成
-- 💻 **開発**: コード生成、レビュー、PR作成、CI/CDデプロイ
-- 📊 **経営管理**: 経費処理、KPIモニタリング、スケジュール管理
-- 🔒 **セキュリティ**: 自動監査、ファイアウォール監視、脆弱性スキャン
+**エージェントの仕事:**
+- 🤖 **Discord** — 14体のAIキャラクターがコミュニティを自律運営
+- 📝 **コンテンツ** — X投稿・note記事・Teachableコースの下書き生成
+- 💻 **開発** — コード生成、PRレビュー、CI/CDデプロイ
+- 📊 **経営** — 経費処理、KPIモニタリング、スケジュール管理
+- 🔒 **セキュリティ** — 自動監査、ファイアウォール監視
 
 ---
 
-## コア哲学: ゴールシークプロンプトデザイン
-
-```
-F(ゴール達成) = ∫F(ステップ) = A → Z
-```
+## 方法論
 
 | フレームワーク | 説明 |
 |---------------|------|
-| **ゴールシークプロンプトデザイン** | ゴールから逆算してAIエージェントの行動を設計する独自フレームワーク |
+| **ゴールシークプロンプトデザイン** | ゴールから逆算してAIエージェントの行動を設計する |
 | **コンテキストエンジニアリング** | 階層型YAMLによるマルチエージェントコンテキスト管理 |
-| **MISO** | Mission Inline Skill Orchestration — Telegram上で動くエージェントUI |
-| **θ(シータ)サイクル** | `θ₁→θ₆` 自己改善ループ: 観察→分析→判断→実行→検証→学習 |
+| **MISO** | Mission Inline Skill Orchestration — Telegram上の自律エージェントUI |
+| **θ(シータ)サイクル** | 自己改善ループ: 観察→分析→判断→実行→検証→学習 |
 
 ---
 
@@ -94,7 +113,7 @@ F(ゴール達成) = ∫F(ステップ) = A → Z
 ![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-E74C3C?style=for-the-badge)
 
-### 言語 & フレームワーク
+### 言語
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -102,19 +121,17 @@ F(ゴール達成) = ∫F(ステップ) = A → Z
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 
-### ツール & プラットフォーム
+### インフラ
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=for-the-badge&logo=tailscale&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
 ## ⭐ 代表プロジェクト
 
-> スター数上位。すべてオリジナル（フォークなし）。
+> すべてオリジナル（フォークなし）。
 
 | プロジェクト | 説明 | Stars |
 |-------------|------|-------|
@@ -123,165 +140,45 @@ F(ゴール達成) = ∫F(ステップ) = A → Z
 | [🧠 context_engineering_MCP](https://github.com/ShunsukeHayashi/context_engineering_MCP) | 階層型YAMLコンテキスト抽出 via MCP | ![](https://img.shields.io/github/stars/ShunsukeHayashi/context_engineering_MCP?style=social) |
 | [✍️ Shunsuke-style-PromptDesign](https://github.com/ShunsukeHayashi/Shunsuke-style-PromptDesign) | **ゴールシークプロンプトデザイン** 方法論 | ![](https://img.shields.io/github/stars/ShunsukeHayashi/Shunsuke-style-PromptDesign?style=social) |
 | [🎮 rpgmaker-mz-mcp](https://github.com/ShunsukeHayashi/rpgmaker-mz-mcp) | MCPツールだけで完全なRPGを制作 | ![](https://img.shields.io/github/stars/ShunsukeHayashi/rpgmaker-mz-mcp?style=social) |
-| [🏯 Miyabi](https://github.com/ShunsukeHayashi/Miyabi) | 経済ガバナンス搭載のオープンソース自律開発フレームワーク | ![](https://img.shields.io/github/stars/ShunsukeHayashi/Miyabi?style=social) |
+| [🏯 Miyabi](https://github.com/ShunsukeHayashi/Miyabi) | オープンソース自律開発フレームワーク | ![](https://img.shields.io/github/stars/ShunsukeHayashi/Miyabi?style=social) |
 | [🤖 Auto-coder-agent](https://github.com/ShunsukeHayashi/Auto-coder-agent_Cursor_Roo_code) | Cursor & Roo Code向け自律コーディングエージェント | ![](https://img.shields.io/github/stars/ShunsukeHayashi/Auto-coder-agent_Cursor_Roo_code?style=social) |
-| [🍜 miso](https://github.com/ShunsukeHayashi/miso) | MISO — Telegram上で動く自律エージェントUIフレームワーク | ![](https://img.shields.io/github/stars/ShunsukeHayashi/miso?style=social) |
-
----
-
-## 全オリジナルリポジトリ
+| [🍜 miso](https://github.com/ShunsukeHayashi/miso) | MISO — Telegram上の自律エージェントUIフレームワーク | ![](https://img.shields.io/github/stars/ShunsukeHayashi/miso?style=social) |
 
 <details>
-<summary><b>🤖 AIエージェントフレームワーク (11本)</b></summary>
+<summary><b>📂 全66リポジトリをカテゴリ別に見る</b></summary>
 
-| リポジトリ | 説明 | Stars |
-|-----------|------|-------|
-| [miyabi-claude-plugins](https://github.com/ShunsukeHayashi/miyabi-claude-plugins) | Claude Code用 25+エージェント, 22スキル, 50+コマンド | ⭐30 |
-| [Miyabi_AI_Agent](https://github.com/ShunsukeHayashi/Miyabi_AI_Agent) | マルチエージェントオーケストレーション搭載の自律AIコーディングエージェント | ⭐29 |
-| [Miyabi](https://github.com/ShunsukeHayashi/Miyabi) | オープンソース自律開発フレームワーク | ⭐16 |
-| [Auto-coder-agent_Cursor_Roo_code](https://github.com/ShunsukeHayashi/Auto-coder-agent_Cursor_Roo_code) | Cursor & Roo Code向け自律コーディングエージェント | ⭐16 |
-| [Dev_Claude](https://github.com/ShunsukeHayashi/Dev_Claude) | YAMLコンテキストエンジニアリングエージェント | ⭐7 |
-| [swml-agent](https://github.com/ShunsukeHayashi/swml-agent) | SWML物理モデルベースのコーディングエージェント | ⭐3 |
-| [XinobiAgent_Devin](https://github.com/ShunsukeHayashi/XinobiAgent_Devin) | Devinスタイルの自律開発エージェント | ⭐3 |
-| [claude-agent-sdk](https://github.com/ShunsukeHayashi/claude-agent-sdk) | Claude Agent SDK | ⭐2 |
-| [XinobiAgent](https://github.com/ShunsukeHayashi/XinobiAgent) | Xinobi自律エージェント | ⭐2 |
-| [AI_entrepreneur_Agent](https://github.com/ShunsukeHayashi/AI_entrepreneur_Agent) | 自律ビジネス運用エージェント | ⭐1 |
-| [swml](https://github.com/ShunsukeHayashi/swml) | SWMLエージェントオーケストレーター | — |
+### AIエージェントフレームワーク (11)
+miyabi-claude-plugins ⭐30 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐16 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1 · swml
 
-</details>
+### MCPサーバー (8)
+context_engineering_MCP ⭐28 · rpgmaker-mz-mcp ⭐21 · miyabi-mcp-bundle ⭐5 · MCP ⭐4 · lark-wiki-mcp-agents ⭐4 · lark-openapi-mcp-enhanced ⭐4 · tyrano-studio-mcp ⭐2 · voicebox-mcp
 
-<details>
-<summary><b>🔗 MCPサーバー (8本)</b></summary>
+### プロンプトエンジニアリング (5)
+Shunsuke-style-PromptDesign ⭐21 · plugin-generator ⭐2 · hayashi-agent-prompt-generator ⭐1 · agent-context-study · sop-generator
 
-| リポジトリ | 説明 | Stars |
-|-----------|------|-------|
-| [context_engineering_MCP](https://github.com/ShunsukeHayashi/context_engineering_MCP) | 階層型YAMLコンテキスト抽出 | ⭐28 |
-| [rpgmaker-mz-mcp](https://github.com/ShunsukeHayashi/rpgmaker-mz-mcp) | MCPツールでRPG制作 | ⭐21 |
-| [miyabi-mcp-bundle](https://github.com/ShunsukeHayashi/miyabi-mcp-bundle) | Claude Desktop向けオールインワンMCPサーバー | ⭐5 |
-| [MCP](https://github.com/ShunsukeHayashi/MCP) | MCPサーバー実装集 | ⭐4 |
-| [lark-wiki-mcp-agents](https://github.com/ShunsukeHayashi/lark-wiki-mcp-agents) | Lark/飛書 Wiki操作 via MCP | ⭐4 |
-| [lark-openapi-mcp-enhanced](https://github.com/ShunsukeHayashi/lark-openapi-mcp-enhanced) | 飛書/Lark OpenAPI MCP強化版 | ⭐4 |
-| [tyrano-studio-mcp](https://github.com/ShunsukeHayashi/tyrano-studio-mcp) | ティラノスタジオゲーム開発 via MCP | ⭐2 |
-| [voicebox-mcp](https://github.com/ShunsukeHayashi/voicebox-mcp) | VOICEVOX音声合成 via MCP | — |
+### コミュニティ (4)
+miso ⭐9 · a2a ⭐3 · miyabi-discord · LINE_Notification_discord ⭐1
 
-</details>
+### AIアプリケーション (7)
+shunsuke-ultimate-ai-platform ⭐5 · shinyu-ai ⭐5 · AntiGravity_miyabi_edition ⭐3 · hanzo ⭐2 · ai-partner-app ⭐2 · agent-visionary-console ⭐2 · 3D_Tetris_Engine ⭐1
 
-<details>
-<summary><b>✍️ プロンプトエンジニアリング (5本)</b></summary>
+### OpenClawエコシステム (3)
+openclaw-prod ⭐2 · MiyabiDash · voiceclaw
 
-| リポジトリ | 説明 | Stars |
-|-----------|------|-------|
-| [Shunsuke-style-PromptDesign](https://github.com/ShunsukeHayashi/Shunsuke-style-PromptDesign) | ゴールシークプロンプトデザイン方法論 | ⭐21 |
-| [hayashi-agent-prompt-generator](https://github.com/ShunsukeHayashi/hayashi-agent-prompt-generator) | AIエージェントプロンプト自動生成 | ⭐1 |
-| [plugin-generator](https://github.com/ShunsukeHayashi/plugin-generator) | Claude Codeプラグインスキャフォールディング | ⭐2 |
-| [agent-context-study](https://github.com/ShunsukeHayashi/agent-context-study) | モデル間コンテキスト理解比較 | — |
-| [sop-generator](https://github.com/ShunsukeHayashi/sop-generator) | AI搭載SOP作成ツール | — |
+### 音声 (3)
+byteplus-voice-ai ⭐1 · voicebox-tts · VoiceFlow
 
-</details>
+### ビジネス (6)
+gas-executor ⭐7 · mastra-youtube-affiliate ⭐3 · Ad_generator ⭐2 · law-api-agent ⭐2 · shadow-marketer-lp ⭐1 · Painting_Estimate_App ⭐1
 
-<details>
-<summary><b>💬 コミュニティ & コミュニケーション (4本)</b></summary>
+### 教育 / PPAL (6)
+ppal-skill-library ⭐4 · how-to-use-miyabi ⭐4 · ppal-mcp-collection ⭐2 · teachable-webhook-aws ⭐1 · miyabi-ppal-plugin · sasaerun-faq
 
-| リポジトリ | 説明 | Stars |
-|-----------|------|-------|
-| [miso](https://github.com/ShunsukeHayashi/miso) | MISO — Telegram上の自律エージェントUI | ⭐9 |
-| [a2a](https://github.com/ShunsukeHayashi/a2a) | Agent-to-Agent通信プロトコル | ⭐3 |
-| [miyabi-discord](https://github.com/ShunsukeHayashi/miyabi-discord) | 14体AIキャラによるDiscord自律運営 | — |
-| [LINE_Notification_discord](https://github.com/ShunsukeHayashi/LINE_Notification_discord) | LINE→Discord通知ブリッジ | ⭐1 |
+### コンテンツ (5)
+Notion-ChatGPT-streaming-connector ⭐1 · blog-summarizer ⭐1 · note_gen ⭐1 · zenn ⭐1 · NoteWriter
 
-</details>
-
-<details>
-<summary><b>🚀 AIアプリケーション (7本)</b></summary>
-
-| リポジトリ | 説明 | Stars |
-|-----------|------|-------|
-| [shunsuke-ultimate-ai-platform](https://github.com/ShunsukeHayashi/shunsuke-ultimate-ai-platform) | マルチモデルAI統合プラットフォーム | ⭐5 |
-| [shinyu-ai](https://github.com/ShunsukeHayashi/shinyu-ai) | AI占い: タロット＋易経＋占星術 | ⭐5 |
-| [AntiGravity_miyabi_edition](https://github.com/ShunsukeHayashi/AntiGravity_miyabi_edition) | 反重力シミュレーション | ⭐3 |
-| [hanzo](https://github.com/ShunsukeHayashi/hanzo) | クロスプラットフォームAIアシスタント (Flutter) | ⭐2 |
-| [ai-partner-app](https://github.com/ShunsukeHayashi/ai-partner-app) | 人格と記憶を持つAIコンパニオン | ⭐2 |
-| [agent-visionary-console](https://github.com/ShunsukeHayashi/agent-visionary-console) | AIエージェントリアルタイム監視ダッシュボード | ⭐2 |
-| [3D_Tetris_Engine](https://github.com/ShunsukeHayashi/3D_Tetris_Engine) | 3Dテトリスエンジン | ⭐1 |
-
-</details>
-
-<details>
-<summary><b>🦞 OpenClawエコシステム (3本)</b></summary>
-
-| リポジトリ | 説明 | Stars |
-|-----------|------|-------|
-| [openclaw-prod](https://github.com/ShunsukeHayashi/openclaw-prod) | 本番運用: ランブック、ガードレール、アップグレードゲート | ⭐2 |
-| [MiyabiDash](https://github.com/ShunsukeHayashi/MiyabiDash) | OpenClaw iOS ダッシュボード — ウィジェット＋Dynamic Island | — |
-| [voiceclaw](https://github.com/ShunsukeHayashi/voiceclaw) | OpenClaw向けハンズフリー音声入力 | — |
-
-</details>
-
-<details>
-<summary><b>🎙️ 音声 & オーディオ (3本)</b></summary>
-
-| リポジトリ | 説明 | Stars |
-|-----------|------|-------|
-| [byteplus-voice-ai](https://github.com/ShunsukeHayashi/byteplus-voice-ai) | BytePlus音声AI: ASR＋TTS＋ボイスクローン | ⭐1 |
-| [voicebox-tts](https://github.com/ShunsukeHayashi/voicebox-tts) | VOICEVOX TTSキューイングシステム | — |
-| [VoiceFlow](https://github.com/ShunsukeHayashi/VoiceFlow) | iOS向けAI音声キーボード | — |
-
-</details>
-
-<details>
-<summary><b>💼 ビジネス & マーケティング (6本)</b></summary>
-
-| リポジトリ | 説明 | Stars |
-|-----------|------|-------|
-| [gas-executor](https://github.com/ShunsukeHayashi/gas-executor) | Google Apps Script Executor | ⭐7 |
-| [mastra-youtube-affiliate](https://github.com/ShunsukeHayashi/mastra-youtube-affiliate) | AI搭載アフィリエイトマーケティング | ⭐3 |
-| [Ad_generator](https://github.com/ShunsukeHayashi/Ad_generator) | AI広告コピージェネレーター | ⭐2 |
-| [law-api-agent](https://github.com/ShunsukeHayashi/law-api-agent) | 日本法令APIエージェント | ⭐2 |
-| [shadow-marketer-lp](https://github.com/ShunsukeHayashi/shadow-marketer-lp) | AIマーケティングLP | ⭐1 |
-| [Painting_Estimate_App](https://github.com/ShunsukeHayashi/Painting_Estimate_App) | 塗装工事見積もりアプリ | ⭐1 |
-
-</details>
-
-<details>
-<summary><b>🎓 教育 / PPAL (6本)</b></summary>
-
-| リポジトリ | 説明 | Stars |
-|-----------|------|-------|
-| [ppal-skill-library](https://github.com/ShunsukeHayashi/ppal-skill-library) | PPAL SKILL.mdライブラリ | ⭐4 |
-| [how-to-use-miyabi](https://github.com/ShunsukeHayashi/how-to-use-miyabi) | 自律開発ガイド | ⭐4 |
-| [ppal-mcp-collection](https://github.com/ShunsukeHayashi/ppal-mcp-collection) | PPAL MCPサーバーコレクション | ⭐2 |
-| [teachable-webhook-aws](https://github.com/ShunsukeHayashi/teachable-webhook-aws) | Teachable → Discord (AWS Lambda) | ⭐1 |
-| [miyabi-ppal-plugin](https://github.com/ShunsukeHayashi/miyabi-ppal-plugin) | Claude Code用コースプラグイン | — |
-| [sasaerun-faq](https://github.com/ShunsukeHayashi/sasaerun-faq) | ささえるん FAQ管理 | — |
-
-</details>
-
-<details>
-<summary><b>📝 コンテンツ & パブリッシング (5本)</b></summary>
-
-| リポジトリ | 説明 | Stars |
-|-----------|------|-------|
-| [Notion-ChatGPT-streaming-connector](https://github.com/ShunsukeHayashi/Notion-ChatGPT-streaming-connector) | Notion × ChatGPTリアルタイム連携 | ⭐1 |
-| [blog-summarizer](https://github.com/ShunsukeHayashi/blog-summarizer) | AI搭載ブログ要約ツール | ⭐1 |
-| [note_gen](https://github.com/ShunsukeHayashi/note_gen) | note.comコンテンツジェネレーター | ⭐1 |
-| [zenn](https://github.com/ShunsukeHayashi/zenn) | Zenn技術記事 | ⭐1 |
-| [NoteWriter](https://github.com/ShunsukeHayashi/NoteWriter) | note.com iOSクライアント | — |
-
-</details>
-
-<details>
-<summary><b>🔧 その他 (8本)</b></summary>
-
-| リポジトリ | 説明 | Stars |
-|-----------|------|-------|
-| [heroui](https://github.com/ShunsukeHayashi/heroui) | HeroUIコンポーネントフレームワーク | ⭐1 |
-| [AI_sachiko](https://github.com/ShunsukeHayashi/AI_sachiko) | AIキャラクタープロジェクト | ⭐1 |
-| [AI-human-game](https://github.com/ShunsukeHayashi/AI-human-game) | AI vs 人間ゲーム | ⭐1 |
-| [translation_app_lao](https://github.com/ShunsukeHayashi/translation_app_lao) | ラオス語翻訳アプリ | ⭐1 |
-| [chrome_nanobanana](https://github.com/ShunsukeHayashi/chrome_nanobanana) | AI画像生成Chrome拡張 | — |
-| [sanbo-ai-lp](https://github.com/ShunsukeHayashi/sanbo-ai-lp) | 参謀AI LP | — |
-| [cc_test](https://github.com/ShunsukeHayashi/cc_test) | Claude Codeテストサンドボックス | — |
-| [Plugin-marketplace](https://github.com/ShunsukeHayashi/Plugin-marketplace) | Claude Codeプラグインマーケットプレイス | — |
+### その他 (8)
+heroui ⭐1 · AI_sachiko ⭐1 · AI-human-game ⭐1 · translation_app_lao ⭐1 · chrome_nanobanana · sanbo-ai-lp · cc_test · Plugin-marketplace
 
 </details>
 
@@ -314,7 +211,7 @@ F(ゴール達成) = ∫F(ステップ) = A → Z
 
 ---
 
-## コントリビューション活動
+## コントリビューション
 
 <div align="center">
 
@@ -324,41 +221,29 @@ F(ゴール達成) = ∫F(ステップ) = A → Z
 
 ---
 
-## 合同会社みやびについて
+## 一緒に仕事しませんか？
 
 <div align="center">
 
-[![Built by Miyabi AI](https://img.shields.io/badge/Built%20by-合同会社みやび-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://www.miyabi-ai.jp)
-
-**合同会社みやび** — 愛知県一宮市。2026年4月設立。
-
-> *「AIと人間が共に働く世界を、自ら証明し、社会に届ける。」*
-
-3本柱: **Build**（つくる）× **Operate**（まわす）× **Educate**（つたえる）
-
-</div>
-
----
-
-## つながる
-
-<div align="center">
-
-| プラットフォーム | リンク | 実績 |
-|----------------|--------|------|
-| 🐦 **X (Twitter)** | [@The_AGI_WAY](https://x.com/The_AGI_WAY) | 38,000+ フォロワー |
-| 📝 **note** | [note.ambitiousai.co.jp](https://note.ambitiousai.co.jp) | 5,447 フォロワー |
-| 🎓 **Teachable** | [みやびAIスクール](https://shuhayas-s-school.teachable.com) | 981件 / 9コース |
-| 🌐 **公式サイト** | [miyabi-ai.jp](https://www.miyabi-ai.jp) | コーポレートサイト |
+| | |
+|---|---|
+| 🎓 **AI教育** | [Teachableコース](https://shuhayas-s-school.teachable.com) — 自律AIシステム構築を学ぶ |
+| 💼 **法人のお客様** | [miyabi-ai.jp](https://www.miyabi-ai.jp) — AIエージェントアーキテクチャ・コンサルティング |
+| 📩 **お問い合わせ** | [shunsuke.hayashi@miyabi-ai.jp](mailto:shunsuke.hayashi@miyabi-ai.jp) |
+| 🐦 **フォロー** | [@The_AGI_WAY](https://x.com/The_AGI_WAY) — 毎日のAIインサイト |
 
 </div>
 
 ---
 
 <div align="center">
+
+**合同会社みやび** — 愛知県一宮市 / 2026年4月設立
+
+*「AIと人間が共に働く世界を、自ら証明し、社会に届ける。」*
+
+**Build** × **Operate** × **Educate**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-*⭐ このプロジェクトが参考になったら、ぜひスターをお願いします！*
 
 </div>
