@@ -21,9 +21,9 @@
 
 > *"Non-engineer turned AI architect. 39 autonomous agents run my business 24/7."*
 
-**林 駿甫 (Shunsuke Hayashi)** — 愛知県一宮市拠点、**合同会社みやび (Miyabi AI LLC)** CEO。
+**Shunsuke Hayashi (林 駿甫)** — Based in Ichinomiya, Aichi, Japan. CEO of **Miyabi AI LLC (合同会社みやび)**.
 
-エンジニアリングの正規教育を受けずに **Goal-Seek Prompt Design** を独自開発。Claude / OpenAI Codex / Gemini の**マルチモデルオーケストレーション**をプロダクションスケールで実現し、**39体の自律AIエージェント**を**5台の分散クラスター**上で24時間運用中。
+Self-taught AI architect who developed **Goal-Seek Prompt Design** — an original methodology for building autonomous agent systems. Running **multi-model orchestration** across Claude / OpenAI Codex / Gemini at production scale, with **39 autonomous AI agents** operating 24/7 on a **5-machine distributed cluster**.
 
 | Metric | Value |
 |--------|-------|
