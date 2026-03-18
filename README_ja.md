@@ -4,7 +4,7 @@
 
 <img src="./avatar.jpg" width="150" style="border-radius:50%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=150&lines=%E6%9E%97+%E9%A7%BF%E7%94%AB+%2F+Shunsuke+Hayashi;%E5%90%88%E5%90%8C%E4%BC%9A%E7%A4%BE%E3%81%BF%E3%82%84%E3%81%B3+CEO;39%E4%BD%93%E3%81%AEAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%A7%E4%BC%9A%E7%A4%BE%E3%82%92%E5%9B%9E%E3%81%99)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=150&lines=%E6%9E%97+%E9%A7%BF%E7%94%AB+%2F+Shunsuke+Hayashi;%E5%90%88%E5%90%8C%E4%BC%9A%E7%A4%BE%E3%81%BF%E3%82%84%E3%81%B3+CEO;40%E4%BD%93%E3%81%AEAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%A7%E4%BC%9A%E7%A4%BE%E3%82%92%E5%9B%9E%E3%81%99)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=42&fontColor=fff" width="100%"/>
 
@@ -24,9 +24,9 @@
 
 **2024年** — プロンプト1本から始めた。エンジニアの学位なし。ノートPCと好奇心だけ。
 
-**2025年** — 5台のマシン上に39体の自律AIエージェントを構築。コード生成、コミュニティ運営、コンテンツ制作、経営管理を24時間365日こなす。
+**2025年** — 5台のマシン上に40体の自律AIエージェントを構築。コード生成、コミュニティ運営、コンテンツ制作、経営管理を24時間365日こなす。
 
-**2026年4月** — **合同会社みやび**を愛知県一宮市で設立。人間1人。AIエージェント39体。本物の会社を回す。
+**2026年4月** — **合同会社みやび**を愛知県一宮市で設立。人間1人。AIエージェント40体。本物の会社を回す。
 
 > *「自分はコードを書かない。AIがコードを書くシステムを設計する。」*
 
@@ -49,9 +49,11 @@
 
 | | |
 |---|---|
-| 🤖 **39体のAIエージェント** | 5台のマシンで24時間稼働 |
+| 🤖 **40体のAIエージェント** | 5台のマシンで24時間稼働 |
 | ⏰ **59本のcronジョブ** | 自動化されたビジネスオペレーション |
-| 📦 **52本のオリジナルリポ** | オープンソースのツール＆フレームワーク |
+| 📦 **68本のオリジナルリポ** | オープンソースのツール＆フレームワーク |
+| ⭐ **325+ GitHub Stars** | 世界中で使われるオープンソースツール |
+| 📊 **年間7,749コントリビューション** | GitHub活動量 上位0.1% |
 | 🐦 **38,000+ Xフォロワー** | [@The_AGI_WAY](https://x.com/The_AGI_WAY) |
 | 🎓 **981件の取引実績** | [Teachable 9コース](https://shuhayas-s-school.teachable.com) |
 | 📝 **5,447 noteフォロワー** | AI教育コンテンツ |
@@ -65,7 +67,7 @@
 ```
                     ┌──────────────────────────────────┐
                     │   Windows Gateway (OpenClaw)      │
-                    │   39体エージェント · 59 cronジョブ  │
+                    │   40体エージェント · 59 cronジョブ  │
                     │   Tailscale VPNメッシュ            │
                     └───────────────┬──────────────────┘
                                     │
@@ -145,7 +147,7 @@
 | [🍜 miso](https://github.com/ShunsukeHayashi/miso) | MISO — Telegram上の自律エージェントUIフレームワーク | ![](https://img.shields.io/github/stars/ShunsukeHayashi/miso?style=social) |
 
 <details>
-<summary><b>📂 全52リポジトリをカテゴリ別に見る</b></summary>
+<summary><b>📂 全68リポジトリをカテゴリ別に見る</b></summary>
 
 ### AIエージェントフレームワーク (11)
 miyabi-claude-plugins ⭐30 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐16 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1 · swml

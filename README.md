@@ -4,7 +4,7 @@
 
 <img src="./avatar.jpg" width="150" style="border-radius:50%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi%2C+I'm+Shunsuke+Hayashi+%F0%9F%91%8B;CEO+%40+Miyabi+AI+%7C+AI+Agent+Architect;39+Autonomous+Agents+Running+My+Business)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hi%2C+I'm+Shunsuke+Hayashi+%F0%9F%91%8B;CEO+%40+Miyabi+AI+%7C+AI+Agent+Architect;40+Autonomous+Agents+Running+My+Business)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=&fontSize=42&fontColor=fff" width="100%"/>
 
@@ -24,9 +24,9 @@
 
 **2024** — Started with a single prompt. No engineering degree. Just a laptop and curiosity.
 
-**2025** — Built 39 autonomous AI agents across 5 machines. They write code, manage communities, create content, and run business operations — 24 hours a day, 7 days a week.
+**2025** — Built 40 autonomous AI agents across 5 machines. They write code, manage communities, create content, and run business operations — 24 hours a day, 7 days a week.
 
-**2026 April** — Founding **Miyabi AI LLC** in Aichi, Japan. One human. 39 AI agents. Running a real company.
+**2026 April** — Founding **Miyabi AI LLC** in Aichi, Japan. One human. 40 AI agents. Running a real company.
 
 > *"I don't code. I architect systems where AI does the coding."*
 
@@ -49,9 +49,11 @@
 
 | | |
 |---|---|
-| 🤖 **39 AI Agents** | Running 24/7 across 5 machines |
+| 🤖 **40 AI Agents** | Running 24/7 across 5 machines |
 | ⏰ **59 Cron Jobs** | Automated business operations |
-| 📦 **52 Original Repos** | Open-source tools & frameworks |
+| 📦 **68 Original Repos** | Open-source tools & frameworks |
+| ⭐ **325+ GitHub Stars** | Open-source tools used worldwide |
+| 📊 **7,749 Annual Contributions** | Top 0.1% GitHub activity |
 | 🐦 **38K+ X Followers** | [@The_AGI_WAY](https://x.com/The_AGI_WAY) |
 | 🎓 **981 Transactions** | [9 courses on Teachable](https://shuhayas-s-school.teachable.com) |
 | 📝 **5,447 note Followers** | AI education content |
@@ -65,7 +67,7 @@
 ```
                     ┌──────────────────────────────────┐
                     │   Windows Gateway (OpenClaw)      │
-                    │   39 agents · 59 cron jobs        │
+                    │   40 agents · 59 cron jobs        │
                     │   Tailscale VPN Mesh              │
                     └───────────────┬──────────────────┘
                                     │
@@ -145,7 +147,7 @@
 | [🍜 miso](https://github.com/ShunsukeHayashi/miso) | MISO — Telegram-native Agentic UI framework | ![](https://img.shields.io/github/stars/ShunsukeHayashi/miso?style=social) |
 
 <details>
-<summary><b>📂 View all 52 repositories by category</b></summary>
+<summary><b>📂 View all 68 repositories by category</b></summary>
 
 ### AI Agent Frameworks (11)
 miyabi-claude-plugins ⭐30 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐16 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1 · swml
