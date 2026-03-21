@@ -37,6 +37,7 @@
 | Where | What |
 |-------|------|
 | 🏆 **NVIDIA GTC 2026** | NemoClaw Reference Architecture — OpenClaw recognized as "the OS for personal AI" by Jensen Huang |
+| 🧠 **[GitNexus](https://github.com/abhigyanpatwari/GitNexus)** (18K+ ⭐) | Community Contributor — [3 PRs merged](https://github.com/abhigyanpatwari/GitNexus/issues/344), production ops toolkit for 25+ repos. Featured in README |
 | 🔍 **Perplexity.ai** | [context_engineering_MCP](https://github.com/ShunsukeHayashi/context_engineering_MCP) recommended as a top MCP implementation |
 | 🏢 **ByteDance / TikTok** | miyabi-claude-plugins cloned 2,093 times in 14 days — traffic from ByteDance engineering |
 | 📊 **MCP Ecosystem** | rpgmaker-mz-mcp auto-registered on 6 MCP directories |
@@ -52,7 +53,7 @@
 | 🤖 **40 AI Agents** | Running 24/7 across 5 machines |
 | ⏰ **59 Cron Jobs** | Automated business operations |
 | 📦 **68 Original Repos** | Open-source tools & frameworks |
-| ⭐ **325+ GitHub Stars** | Open-source tools used worldwide |
+| ⭐ **400+ GitHub Stars** | Open-source tools used worldwide |
 | 📊 **7,749 Annual Contributions** | Top 0.1% GitHub activity |
 | 🐦 **38K+ X Followers** | [@The_AGI_WAY](https://x.com/The_AGI_WAY) |
 | 🎓 **981 Transactions** | [9 courses on Teachable](https://shuhayas-s-school.teachable.com) |
@@ -137,20 +138,21 @@
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [🚌 agent-skill-bus](https://github.com/ShunsukeHayashi/agent-skill-bus) | **Zero-dependency agent skill runtime** — Task queue, self-improving skills, knowledge watcher | ![](https://img.shields.io/github/stars/ShunsukeHayashi/agent-skill-bus?style=social) |
 | [🔌 miyabi-claude-plugins](https://github.com/ShunsukeHayashi/miyabi-claude-plugins) | **25+ Agents, 22 Skills, 50+ Commands** for Claude Code | ![](https://img.shields.io/github/stars/ShunsukeHayashi/miyabi-claude-plugins?style=social) |
 | [🤖 Miyabi_AI_Agent](https://github.com/ShunsukeHayashi/Miyabi_AI_Agent) | Autonomous AI coding agent with multi-agent orchestration | ![](https://img.shields.io/github/stars/ShunsukeHayashi/Miyabi_AI_Agent?style=social) |
 | [🧠 context_engineering_MCP](https://github.com/ShunsukeHayashi/context_engineering_MCP) | Hierarchical YAML context extraction via MCP | ![](https://img.shields.io/github/stars/ShunsukeHayashi/context_engineering_MCP?style=social) |
 | [✍️ Shunsuke-style-PromptDesign](https://github.com/ShunsukeHayashi/Shunsuke-style-PromptDesign) | **Goal-Seek Prompt Design** methodology | ![](https://img.shields.io/github/stars/ShunsukeHayashi/Shunsuke-style-PromptDesign?style=social) |
 | [🎮 rpgmaker-mz-mcp](https://github.com/ShunsukeHayashi/rpgmaker-mz-mcp) | Create complete RPG games using only MCP tools | ![](https://img.shields.io/github/stars/ShunsukeHayashi/rpgmaker-mz-mcp?style=social) |
 | [🏯 Miyabi](https://github.com/ShunsukeHayashi/Miyabi) | Open-source autonomous dev framework | ![](https://img.shields.io/github/stars/ShunsukeHayashi/Miyabi?style=social) |
-| [🤖 Auto-coder-agent](https://github.com/ShunsukeHayashi/Auto-coder-agent_Cursor_Roo_code) | Autonomous coding agent for Cursor & Roo Code | ![](https://img.shields.io/github/stars/ShunsukeHayashi/Auto-coder-agent_Cursor_Roo_code?style=social) |
+| [🛠️ gitnexus-stable-ops](https://github.com/ShunsukeHayashi/gitnexus-stable-ops) | Production ops toolkit for [GitNexus](https://github.com/abhigyanpatwari/GitNexus) (18K+ ⭐) | ![](https://img.shields.io/github/stars/ShunsukeHayashi/gitnexus-stable-ops?style=social) |
 | [🍜 miso](https://github.com/ShunsukeHayashi/miso) | MISO — Telegram-native Agentic UI framework | ![](https://img.shields.io/github/stars/ShunsukeHayashi/miso?style=social) |
 
 <details>
-<summary><b>📂 View all 68 repositories by category</b></summary>
+<summary><b>📂 View all 70 repositories by category</b></summary>
 
-### AI Agent Frameworks (11)
-miyabi-claude-plugins ⭐30 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐16 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1 · swml
+### AI Agent Frameworks (13)
+**agent-skill-bus ⭐82** · miyabi-claude-plugins ⭐30 · gitnexus-stable-ops ⭐30 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐16 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1 · swml
 
 ### MCP Servers (8)
 context_engineering_MCP ⭐28 · rpgmaker-mz-mcp ⭐21 · miyabi-mcp-bundle ⭐5 · MCP ⭐4 · lark-wiki-mcp-agents ⭐4 · lark-openapi-mcp-enhanced ⭐4 · tyrano-studio-mcp ⭐2 · voicebox-mcp
