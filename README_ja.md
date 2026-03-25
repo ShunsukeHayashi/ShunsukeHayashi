@@ -32,14 +32,12 @@
 
 ---
 
-## メディア掲載・実績
+## オープンソースへの貢献 (OSS Contributions)
 
-| 場所 | 内容 |
-|------|------|
-| 🏆 **NVIDIA GTC 2026** | NemoClaw Reference Architecture — Jensen HuangがOpenClawを「パーソナルAIのOS」と認定 |
-| 🔍 **Perplexity.ai** | [context_engineering_MCP](https://github.com/ShunsukeHayashi/context_engineering_MCP) がトップMCP実装として推薦 |
-| 🏢 **ByteDance / TikTok** | miyabi-claude-pluginsが14日間で2,093回クローン — ByteDanceエンジニアリングからの流入 |
-| 📊 **MCPエコシステム** | rpgmaker-mz-mcpが6つのMCPディレクトリに自動登録 |
+| プロジェクト | 説明 | コントリビューション |
+|------|------|------|
+| 🧠 **[GitNexus](https://github.com/abhigyanpatwari/GitNexus)** | コードベース知識グラフ (18K+ ⭐) | **[10 PRs Merged](https://github.com/abhigyanpatwari/GitNexus/pulls?q=is%3Apr+author%3AShunsukeHayashi+is%3Aclosed)**. Pythonモジュール解析、インパクト分析のスケーリング、CLIツールのコアバグ修正など。 |
+| 🏰 **[Miyabi](https://github.com/ShunsukeHayashi/Miyabi)** | 自律型AI開発フレームワーク | 自社の40体エージェントクラスターを稼働させているフレームワークのアーキテクト兼メインテナー。 |
 
 ---
 
@@ -50,9 +48,9 @@
 | | |
 |---|---|
 | 🤖 **40体のAIエージェント** | 5台のマシンで24時間稼働 |
-| ⏰ **59本のcronジョブ** | 自動化されたビジネスオペレーション |
+| ⏰ **58本のcronジョブ** | 自動化されたビジネスオペレーション |
 | 📦 **68本のオリジナルリポ** | オープンソースのツール＆フレームワーク |
-| ⭐ **325+ GitHub Stars** | 世界中で使われるオープンソースツール |
+| ⭐ **400+ GitHub Stars** | 世界中で使われるオープンソースツール |
 | 📊 **年間7,749コントリビューション** | GitHub活動量 上位0.1% |
 | 🐦 **38,000+ Xフォロワー** | [@The_AGI_WAY](https://x.com/The_AGI_WAY) |
 | 🎓 **981件の取引実績** | [Teachable 9コース](https://shuhayas-s-school.teachable.com) |
@@ -64,26 +62,18 @@
 
 ## エージェント・アーキテクチャ
 
-```
-                    ┌──────────────────────────────────┐
-                    │   Windows Gateway (OpenClaw)      │
-                    │   40体エージェント · 59 cronジョブ  │
-                    │   Tailscale VPNメッシュ            │
-                    └───────────────┬──────────────────┘
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              │                     │                      │
-     ┌────────┴───────┐  ┌─────────┴────────┐  ┌─────────┴──────────┐
-     │ Worker-Mini1   │  │ Worker-Mini2     │  │ Worker-MacBook Pro │
-     │ Mac mini       │  │ Mac mini         │  │ MacBook Pro        │
-     │ コア＋開発      │  │ コンテンツ＋PPAL  │  │ SNS＋コーディング   │
-     └────────────────┘  └──────────────────┘  └────────────────────┘
-              │
-     ┌────────┴───────┐
-     │ Worker-Mini3   │
-     │ Mac mini       │
-     │ 3D特化         │
-     └────────────────┘
+```mermaid
+graph TD
+    Gateway["Windows Gateway (OpenClaw)<br/>40体エージェント · 58 cronジョブ"]
+    Worker1["Worker-Mini1 (Mac mini)<br/>コア＋開発"]
+    Worker2["Worker-Mini2 (Mac mini)<br/>コンテンツ＋PPAL"]
+    Worker3["Worker-MacBook Pro<br/>SNS＋コーディング"]
+    Worker4["Worker-Mini3 (Mac mini)<br/>3D特化"]
+
+    Gateway -->|Tailscale VPNメッシュ| Worker1
+    Gateway -->|Tailscale VPNメッシュ| Worker2
+    Gateway -->|Tailscale VPNメッシュ| Worker3
+    Gateway -->|Tailscale VPNメッシュ| Worker4
 ```
 
 **エージェントの仕事:**
@@ -133,24 +123,28 @@
 
 ## ⭐ 代表プロジェクト
 
-> すべてオリジナル（フォークなし）。
-
-| プロジェクト | 説明 | Stars |
-|-------------|------|-------|
-| [🔌 miyabi-claude-plugins](https://github.com/ShunsukeHayashi/miyabi-claude-plugins) | Claude Code用 **25+エージェント, 22スキル, 50+コマンド** | ![](https://img.shields.io/github/stars/ShunsukeHayashi/miyabi-claude-plugins?style=social) |
-| [🤖 Miyabi_AI_Agent](https://github.com/ShunsukeHayashi/Miyabi_AI_Agent) | マルチエージェントオーケストレーション搭載の自律AIコーディングエージェント | ![](https://img.shields.io/github/stars/ShunsukeHayashi/Miyabi_AI_Agent?style=social) |
-| [🧠 context_engineering_MCP](https://github.com/ShunsukeHayashi/context_engineering_MCP) | 階層型YAMLコンテキスト抽出 via MCP | ![](https://img.shields.io/github/stars/ShunsukeHayashi/context_engineering_MCP?style=social) |
-| [✍️ Shunsuke-style-PromptDesign](https://github.com/ShunsukeHayashi/Shunsuke-style-PromptDesign) | **ゴールシークプロンプトデザイン** 方法論 | ![](https://img.shields.io/github/stars/ShunsukeHayashi/Shunsuke-style-PromptDesign?style=social) |
-| [🎮 rpgmaker-mz-mcp](https://github.com/ShunsukeHayashi/rpgmaker-mz-mcp) | MCPツールだけで完全なRPGを制作 | ![](https://img.shields.io/github/stars/ShunsukeHayashi/rpgmaker-mz-mcp?style=social) |
-| [🏯 Miyabi](https://github.com/ShunsukeHayashi/Miyabi) | オープンソース自律開発フレームワーク | ![](https://img.shields.io/github/stars/ShunsukeHayashi/Miyabi?style=social) |
-| [🤖 Auto-coder-agent](https://github.com/ShunsukeHayashi/Auto-coder-agent_Cursor_Roo_code) | Cursor & Roo Code向け自律コーディングエージェント | ![](https://img.shields.io/github/stars/ShunsukeHayashi/Auto-coder-agent_Cursor_Roo_code?style=social) |
-| [🍜 miso](https://github.com/ShunsukeHayashi/miso) | MISO — Telegram上の自律エージェントUIフレームワーク | ![](https://img.shields.io/github/stars/ShunsukeHayashi/miso?style=social) |
+<div align="center">
+  <a href="https://github.com/ShunsukeHayashi/agent-skill-bus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShunsukeHayashi&repo=agent-skill-bus&theme=tokyonight&show_owner=true&locale=ja" />
+  </a>
+  <a href="https://github.com/ShunsukeHayashi/miyabi-claude-plugins">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShunsukeHayashi&repo=miyabi-claude-plugins&theme=tokyonight&show_owner=true&locale=ja" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/ShunsukeHayashi/context_engineering_MCP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShunsukeHayashi&repo=context_engineering_MCP&theme=tokyonight&show_owner=true&locale=ja" />
+  </a>
+  <a href="https://github.com/ShunsukeHayashi/rpgmaker-mz-mcp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShunsukeHayashi&repo=rpgmaker-mz-mcp&theme=tokyonight&show_owner=true&locale=ja" />
+  </a>
+</div>
 
 <details>
 <summary><b>📂 全68リポジトリをカテゴリ別に見る</b></summary>
 
 ### AIエージェントフレームワーク (11)
-miyabi-claude-plugins ⭐30 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐16 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1 · swml
+miyabi-claude-plugins ⭐30 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐16 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1
 
 ### MCPサーバー (8)
 context_engineering_MCP ⭐28 · rpgmaker-mz-mcp ⭐21 · miyabi-mcp-bundle ⭐5 · MCP ⭐4 · lark-wiki-mcp-agents ⭐4 · lark-openapi-mcp-enhanced ⭐4 · tyrano-studio-mcp ⭐2 · voicebox-mcp
@@ -184,6 +178,14 @@ Notion-ChatGPT-streaming-connector ⭐1 · note_gen ⭐1 · zenn ⭐1
 ---
 
 ## GitHub統計
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShunsukeHayashi&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="ShunsukeHayashi" />
+</a>
+</div>
+
+<br>
 
 <div align="center">
 
