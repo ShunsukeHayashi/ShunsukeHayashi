@@ -49,8 +49,8 @@
 |---|---|
 | 🤖 **40体のAIエージェント** | 5台のマシンで24時間稼働 |
 | ⏰ **58本のcronジョブ** | 自動化されたビジネスオペレーション |
-| 📦 **68本のオリジナルリポ** | オープンソースのツール＆フレームワーク |
-| ⭐ **400+ GitHub Stars** | 世界中で使われるオープンソースツール |
+| 📦 **69本のオリジナルリポ** | オープンソースのツール＆フレームワーク |
+| ⭐ **480+ GitHub Stars** | 世界中で使われるオープンソースツール |
 | 📊 **年間7,749コントリビューション** | GitHub活動量 上位0.1% |
 | 🐦 **38,000+ Xフォロワー** | [@The_AGI_WAY](https://x.com/The_AGI_WAY) |
 | 🎓 **981件の取引実績** | [Teachable 9コース](https://shuhayas-s-school.teachable.com) |
@@ -141,36 +141,36 @@ graph TD
 </div>
 
 <details>
-<summary><b>📂 全68リポジトリをカテゴリ別に見る</b></summary>
+<summary><b>📂 全69リポジトリをカテゴリ別に見る</b></summary>
 
-### AIエージェントフレームワーク (11)
-miyabi-claude-plugins ⭐30 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐16 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1
+### AIエージェントフレームワーク
+**agent-skill-bus ⭐151** · miyabi-claude-plugins ⭐31 · gitnexus-stable-ops ⭐51 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐20 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1
 
-### MCPサーバー (8)
-context_engineering_MCP ⭐28 · rpgmaker-mz-mcp ⭐21 · miyabi-mcp-bundle ⭐5 · MCP ⭐4 · lark-wiki-mcp-agents ⭐4 · lark-openapi-mcp-enhanced ⭐4 · tyrano-studio-mcp ⭐2 · voicebox-mcp
+### MCPサーバー
+context_engineering_MCP ⭐29 · rpgmaker-mz-mcp ⭐21 · miyabi-mcp-bundle ⭐5 · MCP ⭐4 · lark-wiki-mcp-agents ⭐4 · lark-openapi-mcp-enhanced ⭐4 · tyrano-studio-mcp ⭐2 · voicebox-mcp
 
-### プロンプトエンジニアリング (5)
+### プロンプトエンジニアリング
 Shunsuke-style-PromptDesign ⭐21 · plugin-generator ⭐2 · hayashi-agent-prompt-generator ⭐1 · agent-context-study · sop-generator
 
-### コミュニティ (4)
+### コミュニティ
 miso ⭐9 · a2a ⭐3 · miyabi-discord · LINE_Notification_discord ⭐1
 
-### AIアプリケーション (7)
+### AIアプリケーション
 shunsuke-ultimate-ai-platform ⭐5 · shinyu-ai ⭐5 · AntiGravity_miyabi_edition ⭐3 · hanzo ⭐2 · ai-partner-app ⭐2 · agent-visionary-console ⭐2 · 3D_Tetris_Engine ⭐1
 
-### OpenClawエコシステム (3)
+### OpenClawエコシステム
 openclaw-prod ⭐2 · MiyabiDash · voiceclaw
 
-### 音声 (3)
+### 音声
 byteplus-voice-ai ⭐1 · voicebox-tts · VoiceFlow
 
-### ビジネス (4)
+### ビジネス
 gas-executor ⭐7 · mastra-youtube-affiliate ⭐3 · Ad_generator ⭐2 · law-api-agent ⭐2
 
-### 教育 / PPAL (4)
+### 教育 / PPAL
 ppal-skill-library ⭐4 · how-to-use-miyabi ⭐4 · ppal-mcp-collection ⭐2 · teachable-webhook-aws ⭐1
 
-### コンテンツ (3)
+### コンテンツ
 Notion-ChatGPT-streaming-connector ⭐1 · note_gen ⭐1 · zenn ⭐1
 
 </details>

@@ -49,8 +49,8 @@
 |---|---|
 | 🤖 **40 AI Agents** | Running 24/7 across 5 machines |
 | ⏰ **58 Cron Jobs** | Automated business operations |
-| 📦 **68 Original Repos** | Open-source tools & frameworks |
-| ⭐ **400+ GitHub Stars** | Open-source tools used worldwide |
+| 📦 **69 Original Repos** | Open-source tools & frameworks |
+| ⭐ **480+ GitHub Stars** | Open-source tools used worldwide |
 | 📊 **7,749 Annual Contributions** | Top 0.1% GitHub activity |
 | 🐦 **38K+ X Followers** | [@The_AGI_WAY](https://x.com/The_AGI_WAY) |
 | 🎓 **981 Transactions** | [9 courses on Teachable](https://shuhayas-s-school.teachable.com) |
@@ -141,13 +141,13 @@ graph TD
 </div>
 
 <details>
-<summary><b>📂 View all 68 repositories by category</b></summary>
+<summary><b>📂 View all 69 repositories by category</b></summary>
 
 ### AI Agent Frameworks
-**agent-skill-bus ⭐82** · miyabi-claude-plugins ⭐30 · gitnexus-stable-ops ⭐30 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐16 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1
+**agent-skill-bus ⭐151** · miyabi-claude-plugins ⭐31 · gitnexus-stable-ops ⭐51 · Miyabi_AI_Agent ⭐29 · Miyabi ⭐20 · Auto-coder-agent ⭐16 · Dev_Claude ⭐7 · swml-agent ⭐3 · XinobiAgent_Devin ⭐3 · claude-agent-sdk ⭐2 · XinobiAgent ⭐2 · AI_entrepreneur_Agent ⭐1
 
 ### MCP Servers
-context_engineering_MCP ⭐28 · rpgmaker-mz-mcp ⭐21 · miyabi-mcp-bundle ⭐5 · MCP ⭐4 · lark-wiki-mcp-agents ⭐4 · lark-openapi-mcp-enhanced ⭐4 · tyrano-studio-mcp ⭐2 · voicebox-mcp
+context_engineering_MCP ⭐29 · rpgmaker-mz-mcp ⭐21 · miyabi-mcp-bundle ⭐5 · MCP ⭐4 · lark-wiki-mcp-agents ⭐4 · lark-openapi-mcp-enhanced ⭐4 · tyrano-studio-mcp ⭐2 · voicebox-mcp
 
 ### Prompt Engineering
 Shunsuke-style-PromptDesign ⭐21 · plugin-generator ⭐2 · hayashi-agent-prompt-generator ⭐1 · agent-context-study · sop-generator
