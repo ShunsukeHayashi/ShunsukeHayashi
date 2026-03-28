@@ -125,18 +125,18 @@ graph TD
 
 <div align="center">
   <a href="https://github.com/ShunsukeHayashi/agent-skill-bus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShunsukeHayashi&repo=agent-skill-bus&theme=tokyonight&show_owner=true" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ShunsukeHayashi&repo=agent-skill-bus&theme=tokyonight&show_owner=true" />
   </a>
   <a href="https://github.com/ShunsukeHayashi/miyabi-claude-plugins">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShunsukeHayashi&repo=miyabi-claude-plugins&theme=tokyonight&show_owner=true" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ShunsukeHayashi&repo=miyabi-claude-plugins&theme=tokyonight&show_owner=true" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/ShunsukeHayashi/context_engineering_MCP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShunsukeHayashi&repo=context_engineering_MCP&theme=tokyonight&show_owner=true" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ShunsukeHayashi&repo=context_engineering_MCP&theme=tokyonight&show_owner=true" />
   </a>
   <a href="https://github.com/ShunsukeHayashi/rpgmaker-mz-mcp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShunsukeHayashi&repo=rpgmaker-mz-mcp&theme=tokyonight&show_owner=true" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=ShunsukeHayashi&repo=rpgmaker-mz-mcp&theme=tokyonight&show_owner=true" />
   </a>
 </div>
 
@@ -181,7 +181,7 @@ Notion-ChatGPT-streaming-connector ⭐1 · note_gen ⭐1 · zenn ⭐1
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShunsukeHayashi&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="ShunsukeHayashi" />
+  <img src="https://trophy.ryglcloud.net/?username=ShunsukeHayashi&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="ShunsukeHayashi" />
 </a>
 </div>
 
@@ -189,8 +189,8 @@ Notion-ChatGPT-streaming-connector ⭐1 · note_gen ⭐1 · zenn ⭐1
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShunsukeHayashi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunsukeHayashi&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=ShunsukeHayashi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ShunsukeHayashi&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
 
 </div>
 
